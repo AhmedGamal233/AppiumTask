@@ -1,4 +1,4 @@
-# Com.AutomationPractice
+# Com.GoldenScentC3po
 
 comGoldenScentC3poTests by creating an automation framework using Java, Appium, TestNG, Cucumber. In short: this framework will be a Modular ScreenFactory-POM-DDT hybrid framework .
 

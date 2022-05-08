@@ -1,0 +1,13 @@
+[
+  {
+    "name": "purchasedCard",
+    "type": "id",
+    "value": "top_layer"
+  },
+  {
+    "name": "productName",
+    "type": "id",
+    "value": "name"
+  }
+
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "buyNow_btn",
+    "type": "id",
+    "value": "android:id/button1"
+  },
+  {
+    "name": "addToCart_btn",
+    "type": "id",
+    "value": "addToCart"
+  }
+]

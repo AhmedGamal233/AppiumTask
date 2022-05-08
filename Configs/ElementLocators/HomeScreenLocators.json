@@ -1,0 +1,23 @@
+[
+  {
+    "name": "product",
+    "type": "xpath",
+    "value": "(//*[contains(@resource-id,'product')])[1]"
+  },
+  {
+    "name": "tooltip",
+    "type": "id",
+    "value": "tooltip"
+  },
+  {
+    "name": "cart_btn",
+    "type": "id",
+    "value": "cart"
+  },
+  {
+    "name": "searchbar",
+    "type": "id",
+    "value": "search_src_text"
+  }
+
+]

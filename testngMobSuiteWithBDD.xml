@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="testngMobSuite">
+    <parameter name="PlatformType" value="Android"/>
+    <parameter name="installWay" value="installFromResources"/>
+    <parameter name="buildPath" value="xxx"/>
+
+
+    <test name="Adding Product To Cart" preserve-order="true">
+        <parameter name="PlatformType" value="Android"/>
+
+        <classes>
+            <class name = "bdd.Runner.TestRunnerMobileUi"/>
+        </classes>
+    </test> <!-- Adding Product To Cart-->
+
+
+</suite>
